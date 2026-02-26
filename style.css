@@ -1,0 +1,12 @@
+.menu-items {
+  color: white;
+}
+Body {
+  background-color: black;
+}
+h2 {
+  font-size: x-large;
+}
+.dropdown-toggle::after {
+    display: none !important;
+}
